@@ -1,2 +1,3 @@
 # Blackjack-Game
-Implementing Blackjack game using adversarial search algorithms
+Implementing Blackjack game using adversarial search algorithms  
+using minimax algorithm
